@@ -1,0 +1,66 @@
+{
+ "kit": 1,
+ "yowasp": "22.0.0-git20542-10",
+ "built": "2026-11-10T04:37:10.008Z",
+ "riprefs": {
+  "69702da0:a3a000": "riprefs-69702da0.bin"
+ },
+ "files": {
+  "lifter.js": {
+   "size": 195170,
+   "sha256": "aea41c176b9803695deba30de2469ebc4ec678dc6b912a9092d488b12ae3aca0",
+   "gz": 62223,
+   "parts": 0
+  },
+  "capstone.wasm": {
+   "size": 1778509,
+   "sha256": "6b3128c714c6e617457ad3d56105c4eaf0429bb5109bba39983537ad1b420771",
+   "gz": 609451,
+   "parts": 0
+  },
+  "llvm.js": {
+   "size": 253407,
+   "sha256": "2ac3d1d20d5732d3bfa2ea9c460c526c65143244b8d6e25cfa15ca0f057d4526",
+   "gz": 24796,
+   "parts": 0
+  },
+  "llvm.core.wasm": {
+   "size": 75532134,
+   "sha256": "24fbed474c7b5b4968fd73fc4827440b93fb351c1b6264516130300eff3e7bf5",
+   "gz": 22804749,
+   "parts": 0
+  },
+  "llvm.core2.wasm": {
+   "size": 37626,
+   "sha256": "960c326eb9b5db7aedbc169540421587a2d3f3ff987e93d6ad5b4da43430ffd4",
+   "gz": 13932,
+   "parts": 0
+  },
+  "llvm.core3.wasm": {
+   "size": 5458,
+   "sha256": "63680c043192abac4700bbda6a78e4c19b139fa086b1e872d1c6915d37a428a8",
+   "gz": 1599,
+   "parts": 0
+  },
+  "llvm.core4.wasm": {
+   "size": 787,
+   "sha256": "f544dc9cc46f88a0f22d1b839a4fb0853dce2d6e231d880bd19754c59a5a234d",
+   "gz": 478,
+   "parts": 0
+  },
+  "stdint.h": {
+   "size": 27519,
+   "sha256": "f43783466c93f77a6464274ebf18f9e4cc46f0d90770ddee2993c6cf39f7514f",
+   "gz": 5110,
+   "parts": 0
+  },
+  "riprefs-69702da0.bin": {
+   "size": 469932,
+   "sha256": "34215cb279c6c2c462bde068fde6997e2966b911c836cf281b5dc38c43896c91",
+   "gz": 68757,
+   "parts": 0
+  }
+ },
+ "version": "fbd301420005c7ef",
+ "gzipped": true
+}
